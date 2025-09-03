@@ -7,8 +7,8 @@ use GuzzleHttp\Exception\RequestException;
 
 $apiKey = '07d9f44524cc0083d60f4eacd05ea0e6';
 $city = 'Sao Paulo';
-$dbHost = 'db_api';
-$dbName = 'weather';
+$dbHost = 'localhost';
+$dbName = 'db_api';
 $dbUser = 'root';
 $dbPass = '';
 
