@@ -13,7 +13,8 @@
 	"require": {
 		"php": ">=5.3.7",
 		"chriskacerguis/codeigniter-restserver": "*",
-		"guzzlehttp/guzzle": "*"
+		"guzzlehttp/guzzle": "*",
+		"firebase/php-jwt": "*"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
