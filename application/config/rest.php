@@ -692,4 +692,4 @@ $config['auth_override_class_method']['Users']['index_get'] = 'jwt';
 $config['auth_override_class_method']['Users']['index_put'] = 'jwt';
 $config['auth_override_class_method']['Users']['index_delete'] = 'jwt'; 
 $config['rest_auth'] = 'jwt';
-$config['rest_jwt_key'] = 'MINHA_CHAVE_JWT';
+$config['rest_jwt_key'] = '';

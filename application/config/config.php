@@ -531,4 +531,4 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
-$config['jwt_key'] = 'MINHA_CHAVE_JWT';
+$config['jwt_key'] = '';
